@@ -1,5 +1,3 @@
-[silent_hollow_observer.html](https://github.com/user-attachments/files/24380365/silent_hollow_observer.html)
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
