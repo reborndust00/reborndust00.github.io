@@ -1,5 +1,4 @@
 # silent-hollow-observer
-[silent_hollow_observer.html](https://github.com/user-attachments/files/24380244/silent_hollow_observer.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
